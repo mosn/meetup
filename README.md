@@ -1,7 +1,7 @@
 # meetup
 
 ## 2021
-* [MOSN子项目Layotto:开启服务网格+应用运行时新篇章](https://mp.weixin.qq.com/s/4xx35LiWmNJtydYUjTDyUw)
+* [MOSN子项目Layotto:开启服务网格+应用运行时新篇章](https://mp.weixin.qq.com/s/4xx35LiWmNJtydYUjTDyUw) [\[PPT\]](./ppt/layotto/MOSN子项目Layotto-开启服务网格+应用运行时新篇章.pdf) [\[Video\]](https://www.bilibili.com/video/BV1hq4y1L7FY)
 * [云原生网络代理 MOSN 新的助推器 —Envoy](https://www.sofastack.tech/activities/sofa-meetup-5/)
 * [MOSN 多协议扩展开发实践](https://github.com/gopherchina/meetup/blob/master/Chengdu/20210417/3%20MOSN%20%E5%A4%9A%E5%8D%8F%E8%AE%AE%E6%89%A9%E5%B1%95%E5%AE%9E%E8%B7%B5.pdf)
 * [Go 开源说第五期 - MOSN](https://www.bilibili.com/video/av629142283/)
