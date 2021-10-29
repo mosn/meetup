@@ -1,6 +1,7 @@
 # meetup
 
 ## 2021
+* [Layotto:Service Mesh, Runtime, FaaS 三位一体](./ppt/layotto/ServiceMesh-Runtime-FaaS三位一体.pdf)
 * [MOSN 在云原生的探索和实践](https://www.bagevent.com/event/7298467) [\[PPT\]](./ppt/mosn/MOSN%20%E5%9C%A8%E4%BA%91%E5%8E%9F%E7%94%9F%E7%9A%84%E6%8E%A2%E7%B4%A2%E5%8F%8A%E5%AE%9E%E8%B7%B5%20-%20%E7%8E%8B%E5%8F%91%E5%BA%B7.pdf)
 * [MOSN子项目Layotto:开启服务网格+应用运行时新篇章](https://mp.weixin.qq.com/s/4xx35LiWmNJtydYUjTDyUw) [\[PPT\]](./ppt/layotto/MOSN子项目Layotto-开启服务网格+应用运行时新篇章.pdf) [\[Video\]](https://www.bilibili.com/video/BV1hq4y1L7FY)
 * [云原生网络代理 MOSN 新的助推器 —Envoy](https://www.sofastack.tech/activities/sofa-meetup-5/)
